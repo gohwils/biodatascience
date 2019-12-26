@@ -17,7 +17,7 @@ Preliminary work as proof-of-concept on how AI can be used for classifying text-
 ![deep learning image 1](https://gohwils.github.io/biodatascience/images/deep_learning1.png)
 
 
-###Reference
+### Reference
 [1] Goh WWB, Sze CC. AI paradigms for teaching biotechnology. Trends in Biotechnology, 37(1): 1-5, Jan 2019
 
 
