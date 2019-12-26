@@ -16,6 +16,7 @@ Link out below to find out more about each area and our work/contributions
 1. [Dealing with confounders in omics analysis](https://gohwils.github.io/biodatascience/confounders)
 2. [Enabling more sophisticated proteomic profile analysis](https://gohwils.github.io/biodatascience/proteomics)
 3. [Resolving the missing protein problem using meaningful context](https://gohwils.github.io/biodatascience/mpp)
+4. [Understanding the cost of batch effects in biological big data analysis](https://gohwils.github.io/biodatascience/batcheffects)
 
 
 ### Education Technology
