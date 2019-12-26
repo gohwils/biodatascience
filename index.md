@@ -36,7 +36,7 @@ Link out below to find out more about each area and our work/contributions
 5. [Wee Yuhui (BSc)](https://gohwils.github.io/biodatascience/weeyuhui)
 6. [Jordan Kho (BSc)](https://gohwils.github.io/biodatascience/jordankho)
 
-### Alumni
+## Alumni
 1. Felicia Ngan
 2. Chon Hui Min
 3. Lu Tianyi
