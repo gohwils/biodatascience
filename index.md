@@ -1,7 +1,5 @@
 ## Welcome to the BioData Science and Education Laboratory
-We are a research group, comprised of bio-data scientists, computational biologists and education technologists, and we are based in the School of Biological Sciences, Nanyang Technological University!
-
-
+We are a research group comprised of bio-data scientists, computational biologists and education technologists in the School of Biological Sciences, Nanyang Technological University.
 
 ## Current projects
 Our research activities may be broadly divided into two areas: bio-data science and educational technology.
@@ -18,26 +16,47 @@ Education --- I am exploring the efficacy of two alternate teaching models and h
 
 Link out below to find out more about each area and our work/contributions
 
-# Computational Biology
-1. Resolving batch
+### Computational Biology
+1. Dealing with confounders in omics analysis
+2. Enabling more sophisticated proteomic profile analysis
+3. Resolving the missing protein problem using meaningful context
+
+
+### Education Technology
+1. Design and development of digital coaching environment for Deeper Experiential Engagement Projects: co-evolution of education with Artificial Intelligence 
+2. Using machine-based deep learning to uncover the signs of human-based deep learning
+
 
 
 ## Our people (Meet the team)
 # Full-time
-1. Wilson Wen Bin Goh
+1. Wilson Wen Bin Goh 
 2. Ho Sung Yang
 3. Justin Ng
 
 # Research students
 1. Samuel Tan (PhD)
 2. Zhou Longjian (PhD)
-3. Zhao Yaxing (Msc)
-4. Joan Jong
-5. Wee Yuhui
+3. Zhao Yaxing (MSc)
+4. Joan Jong (BSc)
+5. Wee Yuhui (BSc)
+6. Jordan Kho (BSc)
 
 
-### Contact or join us
-We are always on the lookout for exciting new talent to join the team. If you like what you have seen and read so far, drop us an email at biodatascienceandeducation@e.ntu.edu.sg
+'''
+## Collaborations
+We are highly collaborative, and work with a multitude of experts in and out of Singapore.
+'''
+
+
+
+## Contact or join us
+We are located at level 3 North wing of the School of Biological Sciences (60 Nanyang Drive, Singapore 637551)
+
+We are always on the lookout for exciting new talent to join the team. 
+
+If what you have read so far makes you think and curious, drop us an email at [mailto](mailto:biodatascienceandeducation@e.ntu.edu.sg)
+
 
 
 
