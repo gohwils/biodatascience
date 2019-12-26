@@ -1,3 +1,12 @@
+## Welcome to the BioData Science and Education Laboratory
+We are a research group based in the School of Biological Sciences, Nanyang Technological University.
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/gohwils/biodatascience/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
