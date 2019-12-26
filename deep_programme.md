@@ -24,5 +24,5 @@ The structure of a DEEP course is as follows:
 
 ![DEEP course structure](https://gohwils.github.io/biodatascience/images/DEEP_course_structure.jpg)
 
-###References
+### References
 1.	Goh, W.W.B. and C.C. Sze, AI Paradigms for Teaching Biotechnology. Trends Biotechnol, 2019. 37(1): p. 1-5.
