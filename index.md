@@ -3,13 +3,41 @@ We are a research group, comprised of bio-data scientists, computational biologi
 
 
 
+## Current projects
+Our research activities may be broadly divided into two areas: bio-data science and educational technology.
+
+**Bio-data science** is an exciting new area where the associative technologies associated with data science and relevant thinking skills are applied onto biological and health-related problems.
+
+These may include how to resolve batch effect problems when effecting large-scale data mergers. 
+
+We are also interested in very fine-scale problems where we concern ourselves 
+
+five themes: 1/ Feature selection and network modeling is concerned with resolving bio-statistical issues e.g. reproducibility and accuracy in high-throughput omics platforms using networks as context; 2/ Normalization techniques, batch effects and pure statistics is concerned with resolving noise and heterogeneity issues in data prior to functional analysis; 3/ Missing protein prediction is concerned with resolving coverage and inconsistency issues in proteomics data, an important challenge as the “data holes” impedes proper analysis; 4/ Experimental design and principles is concerned with crystalizing first-principles from contemporary research into best practices for data analysis; And 5/ Applied informatics pertains to collaborative research where I apply know-how and existing capabilities garnered from my research onto specific biological problems.
+
+Education --- I am exploring the efficacy of two alternate teaching models and how it may be of value in NTU’s context. The “informal learning” model is an experiential hobbyist-led approach where students organize themselves into small interest groups, and with the help of a faculty/student mentor, work in designed learning spaces outside the confines of the classroom. The “student-as-partner” involves the involvement of students in co-development and execution of the teaching and learning agenda; this is also a meaningful form of mentorship where student participants achieve deeper learning by placing themselves into the role of the professor.
+
+Link out below to find out more about each area and our work/contributions
+
+# Computational Biology
+1. Resolving batch
 
 
+## Our people (Meet the team)
+# Full-time
+1. Wilson Wen Bin Goh
+2. Ho Sung Yang
+3. Justin Ng
+
+# Research students
+1. Samuel Tan (PhD)
+2. Zhou Longjian (PhD)
+3. Zhao Yaxing (Msc)
+4. Joan Jong
+5. Wee Yuhui
 
 
-
-
-
+### Contact or join us
+We are always on the lookout for exciting new talent to join the team. If you like what you have seen and read so far, drop us an email at biodatascienceandeducation@e.ntu.edu.sg
 
 
 
