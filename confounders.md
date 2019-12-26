@@ -16,7 +16,7 @@ Confounders lead to universality and reproducibility problems. Confounders can i
 The subject of this research theme is to explore a deeper rethink on hypothesis statement construction, null distribution appropriateness and relevant test-statistics.
 
 
-```
+```markdown
 Anna Karenina Effect Checklist
 
 What Causes the Anna Karenina Effect?
