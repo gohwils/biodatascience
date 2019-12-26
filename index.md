@@ -67,7 +67,7 @@ For full-time staff, we have vacancies for research fellows, associates and assi
 For undergraduate students, we do post available projects on the relevant project portals (e.g. URECA, FYP or CN Yang). You may also approach us directly to discuss customized projects (preferred). Do note that you are required to have certain proficiency in programming skills, mathematics, statistics and algorithms.
 
 
-For prospective graduate students (MSc or PhD), please write in directly to myself(mailto: wilsongoh@ntu.edu.sg) or to Limsoon(mailto:wongls@comp.nus.edu.sg)
+For prospective graduate students (MSc or PhD), please write in directly to [myself](mailto: wilsongoh@ntu.edu.sg) or to [Limsoon](mailto:wongls@comp.nus.edu.sg)
 
 If what you have read so far makes you think and curious, drop us an email at [biodatascienceandeducation@e.ntu.edu.sg](mailto:biodatascienceandeducation@e.ntu.edu.sg)
 
