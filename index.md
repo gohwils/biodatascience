@@ -30,7 +30,7 @@ Link out below to find out more about each area and our work/contributions
 
 ## Our people (Meet the team)
 # Full-time
-1. [Wilson Wen Bin Goh](/wilsongoh)
+1. [Wilson Wen Bin Goh](https://gohwils.github.io/biodatascience/wilsongoh)
 2. [Ho Sung Yang]()
 3. [Justin Ng]()
 
