@@ -56,6 +56,7 @@ These talented individuals include:
 3. [Andrew Tan](http://www.sbs.ntu.edu.sg/aboutus/Faculty/NSTan/Pages/Home.aspx)
 4. [Guillaume Thibault](http://www.thibaultlab.com/)
 5. [Tan Suet Mien](http://sbs.ntu.edu.sg/aboutus/Faculty/SMTan/Pages/Home.aspx)
+6. [Tiannan Guo](http://www.guomics.com/nd.jsp?id=31)
 
 ## Contact or join us
 We are located at level 3 North wing of the School of Biological Sciences (60 Nanyang Drive, Singapore 637551)
@@ -67,9 +68,9 @@ For full-time staff, we have vacancies for research fellows, associates and assi
 For undergraduate students, we do post available projects on the relevant project portals (e.g. URECA, FYP or CN Yang). You may also approach us directly to discuss customized projects (preferred). Do note that you are required to have certain proficiency in programming skills, mathematics, statistics and algorithms.
 
 
-For prospective graduate students (MSc or PhD), please write in directly to [myself](mailto: wilsongoh@ntu.edu.sg) or to [Limsoon](mailto:wongls@comp.nus.edu.sg)
+For prospective graduate students (MSc or PhD), please write in directly to [myself](mailto: wilsongoh@ntu.edu.sg) or to [Limsoon](mailto:wongls@comp.nus.edu.sg).
 
-If what you have read so far makes you think and curious, drop us an email at [biodatascienceandeducation@e.ntu.edu.sg](mailto:biodatascienceandeducation@e.ntu.edu.sg)
+If what you have read so far makes you think and curious, drop us an email at [biodatascienceandeducation@e.ntu.edu.sg](mailto:biodatascienceandeducation@e.ntu.edu.sg).
 
 <!---
 ## Welcome to GitHub Pages
