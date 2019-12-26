@@ -60,7 +60,14 @@ These talented individuals include:
 ## Contact or join us
 We are located at level 3 North wing of the School of Biological Sciences (60 Nanyang Drive, Singapore 637551)
 
-We are always on the lookout for exciting new talent to join the team. 
+We are always on the lookout for exciting new talent to join the team.
+
+For full-time staff, we have vacancies for research fellows, associates and assistants. Do check out the NTU jobs portal for ads or check with us directly.
+
+For undergraduate students, we do post available projects on the relevant project portals (e.g. URECA, FYP or CN Yang). You may also approach us directly to discuss customized projects (preferred). Do note that you are required to have certain proficiency in programming skills, mathematics, statistics and algorithms.
+
+
+For prospective graduate students (MSc or PhD), please write in directly to myself(mailto: wilsongoh@ntu.edu.sg) or to Limsoon(mailto:wongls@comp.nus.edu.sg)
 
 If what you have read so far makes you think and curious, drop us an email at [biodatascienceandeducation@e.ntu.edu.sg](mailto:biodatascienceandeducation@e.ntu.edu.sg)
 
