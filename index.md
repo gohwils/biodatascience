@@ -30,17 +30,17 @@ Link out below to find out more about each area and our work/contributions
 
 ## Our people (Meet the team)
 # Full-time
-1. Wilson Wen Bin Goh 
-2. Ho Sung Yang
-3. Justin Ng
+1. [Wilson Wen Bin Goh]()
+2. [Ho Sung Yang]()
+3. [Justin Ng]()
 
 # Research students
-1. Samuel Tan (PhD)
-2. Zhou Longjian (PhD)
-3. Zhao Yaxing (MSc)
-4. Joan Jong (BSc)
-5. Wee Yuhui (BSc)
-6. Jordan Kho (BSc)
+1. [Samuel Tan (PhD)]()
+2. [Zhou Longjian (PhD)]()
+3. [Zhao Yaxing (MSc)]()
+4. [Joan Jong (BSc)]()
+5. [Wee Yuhui (BSc)]()
+6. [Jordan Kho (BSc)]()
 
 
 '''
@@ -55,7 +55,7 @@ We are located at level 3 North wing of the School of Biological Sciences (60 Na
 
 We are always on the lookout for exciting new talent to join the team. 
 
-If what you have read so far makes you think and curious, drop us an email at [mailto](mailto:biodatascienceandeducation@e.ntu.edu.sg)
+If what you have read so far makes you think and curious, drop us an email at [biodatascienceandeducation@e.ntu.edu.sg](mailto:biodatascienceandeducation@e.ntu.edu.sg)
 
 
 
