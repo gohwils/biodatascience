@@ -31,16 +31,16 @@ Link out below to find out more about each area and our work/contributions
 ## Our people (Meet the team)
 # Full-time
 1. [Wilson Wen Bin Goh](https://gohwils.github.io/biodatascience/wilsongoh)
-2. [Ho Sung Yang]()
-3. [Justin Ng]()
+2. [Ho Sung Yang](https://gohwils.github.io/biodatascience/hosungyang)
+3. [Justin Ng](https://gohwils.github.io/biodatascience/justinng)
 
 # Research students
-1. [Samuel Tan (PhD)]()
-2. [Zhou Longjian (PhD)]()
-3. [Zhao Yaxing (MSc)]()
-4. [Joan Jong (BSc)]()
-5. [Wee Yuhui (BSc)]()
-6. [Jordan Kho (BSc)]()
+1. [Samuel Tan (PhD)](https://gohwils.github.io/biodatascience/samueltan)
+2. [Zhou Longjian (PhD)](https://gohwils.github.io/biodatascience/zhoulongjian)
+3. [Zhao Yaxing (MSc)](https://gohwils.github.io/biodatascience/zhaoyaxing)
+4. [Joan Jong (BSc)](https://gohwils.github.io/biodatascience/joanjong)
+5. [Wee Yuhui (BSc)](https://gohwils.github.io/biodatascience/weeyuhui)
+6. [Jordan Kho (BSc)](https://gohwils.github.io/biodatascience/jordankho)
 
 
 '''
