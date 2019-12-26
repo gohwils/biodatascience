@@ -12,7 +12,7 @@ Our interest in **Education technology (EdTech)**  pertains to the use of data a
 
 Link out below to find out more about each area and our work/contributions
 
-### Computational Biology
+### Bio-Data Science and Computational Biology
 1. [Dealing with confounders in omics analysis](https://gohwils.github.io/biodatascience/confounders)
 2. [Enabling more sophisticated proteomic profile analysis](https://gohwils.github.io/biodatascience/proteomics)
 3. [Resolving the missing protein problem using meaningful context](https://gohwils.github.io/biodatascience/mpp)
