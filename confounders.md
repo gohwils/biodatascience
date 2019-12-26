@@ -18,10 +18,9 @@ The subject of this research theme is to explore a deeper rethink on hypothesis 
 ### Reference
 [1] Goh WWB, Wong LS. Dealing with confounders in -omics analysis. Trends in Biotechnology, 36(5):488-498, May 2018
 
-
-
-
-
+## Team members
+1. Wilson Goh
+2. Limsoon Wong
 
 ## Relevant publications
 1.	Goh WWB, Wong LS. Dealing with confounders in -omics analysis. Trends in Biotechnology, 36(5):488-498, May 2018
