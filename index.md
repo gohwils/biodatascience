@@ -22,7 +22,7 @@ Link out below to find out more about each area and our work/contributions
 
 
 ### Education Technology
-1. [Design and development of digital coaching environment for Deeper Experiential Engagement Projects: co-evolution of education with Artificial Intelligence](https://gohwils.github.io/biodatascience/ACE) 
+1. [Feeling it --- How does sentiment and motivation affect academic performance?](https://gohwils.github.io/biodatascience/ACE)
 2. [Using machine-based deep learning to uncover the signs of human-based deep learning](https://gohwils.github.io/biodatascience/deeplearning)
 
 ## Our people (Meet the team)
