@@ -35,11 +35,14 @@ Link out below to find out more about each area and our work/contributions
 4. [Joan Jong (BSc)](https://gohwils.github.io/biodatascience/joanjong)
 5. [Wee Yuhui (BSc)](https://gohwils.github.io/biodatascience/weeyuhui)
 6. [Jordan Kho (BSc)](https://gohwils.github.io/biodatascience/jordankho)
+7. [Kimberly Phua (BSc)](https://gohwils.github.io/biodatascience/kimberlyphua)
+8. [Nicole Kan (BSc)](https://gohwils.github.io/biodatascience/nicolekhan)
 
 ## Alumni
-1. Felicia Ngan
-2. Chon Hui Min
-3. Lu Tianyi
+1. Felicia Ngan, BSc
+2. Chon Hui Min, BSc
+3. Lu Tianyi, BSc
+4. Wei Wang, MSc
 
 ## Collaborations
 We are highly collaborative, and work with a multitude of experts in and out of Singapore.
