@@ -15,7 +15,8 @@ Confounders lead to universality and reproducibility problems. Confounders can i
 
 The subject of this research theme is to explore a deeper rethink on hypothesis statement construction, null distribution appropriateness and relevant test-statistics.
 
-
+### Reference
+[1] Goh WWB, Wong LS. Dealing with confounders in -omics analysis. Trends in Biotechnology, 36(5):488-498, May 2018
 
 
 
@@ -33,5 +34,3 @@ The subject of this research theme is to explore a deeper rethink on hypothesis 
 8.	Wang W, Sue ACH, Goh WWB. Null-hypothesis statistical testing in clinical proteomics: With great power comes great reproducibility. Drug Discovery Today, 22(6):912-918, June 2017
 9.	Wang W, Goh WWB. Sample-to-sample p-value variability and its implications in multivariate analysis. International Journal of Bioinformatics Research and Applications, 14(3):235-254, Jan 2018
 
-### Reference
-[1] Goh WWB, Wong LS. Dealing with confounders in -omics analysis. Trends in Biotechnology, 36(5):488-498, May 2018
