@@ -1,5 +1,12 @@
 ## Welcome to the BioData Science and Education Laboratory
-We are a research group based in the School of Biological Sciences, Nanyang Technological University.
+We are a research group, comprised of bio-data scientists, computational biologists and education technologists, and we are based in the School of Biological Sciences, Nanyang Technological University!
+
+
+
+
+
+
+
 
 
 
