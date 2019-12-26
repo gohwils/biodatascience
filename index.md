@@ -17,16 +17,14 @@ Education --- I am exploring the efficacy of two alternate teaching models and h
 Link out below to find out more about each area and our work/contributions
 
 ### Computational Biology
-1. Dealing with confounders in omics analysis
-2. Enabling more sophisticated proteomic profile analysis
-3. Resolving the missing protein problem using meaningful context
+1. [Dealing with confounders in omics analysis](https://gohwils.github.io/biodatascience/confounders)
+2. [Enabling more sophisticated proteomic profile analysis](https://gohwils.github.io/biodatascience/proteomics)
+3. [Resolving the missing protein problem using meaningful context]((https://gohwils.github.io/biodatascience/mpp)
 
 
 ### Education Technology
-1. Design and development of digital coaching environment for Deeper Experiential Engagement Projects: co-evolution of education with Artificial Intelligence 
-2. Using machine-based deep learning to uncover the signs of human-based deep learning
-
-
+1. [Design and development of digital coaching environment for Deeper Experiential Engagement Projects: co-evolution of education with Artificial Intelligence](https://gohwils.github.io/biodatascience/ACE) 
+2. [Using machine-based deep learning to uncover the signs of human-based deep learning](https://gohwils.github.io/biodatascience/deeplearning)
 
 ## Our people (Meet the team)
 ### Full-time
@@ -42,13 +40,14 @@ Link out below to find out more about each area and our work/contributions
 5. [Wee Yuhui (BSc)](https://gohwils.github.io/biodatascience/weeyuhui)
 6. [Jordan Kho (BSc)](https://gohwils.github.io/biodatascience/jordankho)
 
-
-'''
 ## Collaborations
 We are highly collaborative, and work with a multitude of experts in and out of Singapore.
-'''
 
-
+These really talented individuals include:
+1. [Limsoon Wong](https://www.comp.nus.edu.sg/~wongls/)
+2. [Jimmy Lee](https://www.imh.com.sg/uploadedFiles/Research/Dr%20Jimmy%20Lee.pdf)
+3. [Andrew Tan](http://www.sbs.ntu.edu.sg/aboutus/Faculty/NSTan/Pages/Home.aspx)
+4. [Guillaume Thibault](http://www.thibaultlab.com/)
 
 ## Contact or join us
 We are located at level 3 North wing of the School of Biological Sciences (60 Nanyang Drive, Singapore 637551)
