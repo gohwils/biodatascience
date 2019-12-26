@@ -22,21 +22,21 @@ The subject of this research theme is to explore a deeper rethink on hypothesis 
 What Causes the Anna Karenina Effect?
 
 - A careless null/alternative hypothesis due to forgotten assumptions:
--  Distributions of the feature of interest in the two samples are identical to the two corresponding populations
--  Features not of interest are equalized/controlled for in the two samples
--  No other explanation for the significance of the test
--  Null distribution models the real world
+ - Distributions of the feature of interest in the two samples are identical to the two corresponding populations
+ - Features not of interest are equalized/controlled for in the two samples
+ - No other explanation for the significance of the test
+ - Null distribution models the real world
 
 These make it easy to reject the carelessly stated null hypothesis and accept an incorrect alternative hypothesis.
 
 - Good Practices to Avoid Wrong Conclusions and Get Deeper Insight
--  Checkforsamplingbias: are the distributions of the feature of interest in the two samples the same as that in the two populations?
--  Check for exceptions: are there large subpopulations for which the test outcome is opposite? Are there large subpopulations for which the test outcome becomes much more significant?
--  Check the validity of the null distribution: is there evidence that suggests the null distribution is inappropriate?
--  Check the hypothesis statement construction: are the hypothesis statements being framed correctly (as opposed to
+ - Checkforsamplingbias: are the distributions of the feature of interest in the two samples the same as that in the two populations?
+ - Check for exceptions: are there large subpopulations for which the test outcome is opposite? Are there large subpopulations for which the test outcome becomes much more significant?
+ - Check the validity of the null distribution: is there evidence that suggests the null distribution is inappropriate?
+ - Check the hypothesis statement construction: are the hypothesis statements being framed correctly (as opposed to
 a statement that is prone to being rejected for the wrong reasons)?
--  Check your assumptions: are the right assumptions being made (e.g., the independence of measured variables)?
--  Check if appropriate summary statistics are used: if an event is extremely rare, then using mean/median-based
+ - Check your assumptions: are the right assumptions being made (e.g., the independence of measured variables)?
+ - Check if appropriate summary statistics are used: if an event is extremely rare, then using mean/median-based
 statistics will miss it; the same goes if many similar events are present, but only one is relevant. Addressing most or all of the above points still does not ensure phenotypic relevance, only correlation.
 
 
