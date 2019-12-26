@@ -29,12 +29,12 @@ Link out below to find out more about each area and our work/contributions
 
 
 ## Our people (Meet the team)
-# Full-time
+### Full-time
 1. [Wilson Wen Bin Goh](https://gohwils.github.io/biodatascience/wilsongoh)
 2. [Ho Sung Yang](https://gohwils.github.io/biodatascience/hosungyang)
 3. [Justin Ng](https://gohwils.github.io/biodatascience/justinng)
 
-# Research students
+### Research students
 1. [Samuel Tan (PhD)](https://gohwils.github.io/biodatascience/samueltan)
 2. [Zhou Longjian (PhD)](https://gohwils.github.io/biodatascience/zhoulongjian)
 3. [Zhao Yaxing (MSc)](https://gohwils.github.io/biodatascience/zhaoyaxing)
@@ -60,7 +60,7 @@ If what you have read so far makes you think and curious, drop us an email at [b
 
 
 
-
+<!---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/gohwils/biodatascience/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -98,3 +98,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+-->
