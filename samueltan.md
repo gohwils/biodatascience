@@ -4,5 +4,7 @@
 
 **Project Details**
 
-- Employing network based methods to identify minimal UPR pathway(s). 
+- Examining neural connectivity using network based methods.
+- Applying network based methods to identify minimal UPR pathway(s). 
+- Translating biological principles into code. 
 
