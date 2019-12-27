@@ -48,12 +48,12 @@ Link out below to find out more about each area and our work/contributions
 
 ## Courses (Taught by us)
 ### Undergraduate courses
-[2019, BS3033, Data Science for Biologists](https://gohwils.github.io/biodatascience/bs3033)
-[2019, BS0004, Introduction to Data Science](https://gohwils.github.io/biodatascience/bs0004)
-[2017, BS3012, Computational Proteomics](https://gohwils.github.io/biodatascience/bs3012)
+- [2019, BS3033, Data Science for Biologists](https://gohwils.github.io/biodatascience/bs3033)
+- [2019, BS0004, Introduction to Data Science](https://gohwils.github.io/biodatascience/bs0004)
+- [2017, BS3012, Computational Proteomics](https://gohwils.github.io/biodatascience/bs3012)
 
 ### Graduate courses
-[2018, IH7001, Bioinformatics](https://gohwils.github.io/biodatascience/ih7001)
+- [2018, IH7001, Bioinformatics](https://gohwils.github.io/biodatascience/ih7001)
 
 ## Collaborations
 We are highly collaborative, and work with a multitude of experts in and out of Singapore.
