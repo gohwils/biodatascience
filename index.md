@@ -50,6 +50,7 @@ Link out below to find out more about each area and our work/contributions
 ### Undergraduate courses
 - [2019, BS3033, Data Science for Biologists](https://gohwils.github.io/biodatascience/bs3033)
 - [2019, BS0004, Introduction to Data Science](https://gohwils.github.io/biodatascience/bs0004)
+- [2019, BS03349, Introduction to R programming](https://gohwils.github.io/biodatascience/bs3349)
 - [2017, BS3012, Computational Proteomics](https://gohwils.github.io/biodatascience/bs3012)
 
 ### Graduate courses
