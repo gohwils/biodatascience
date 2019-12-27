@@ -1,10 +1,10 @@
 ## Welcome to the BioData Science and Education Laboratory
-We are a research group comprised of bio-data scientists, computational biologists and education technologists in the School of Biological Sciences, Nanyang Technological University.
+We are a research group comprised of biodata scientists, computational biologists and education technologists in the School of Biological Sciences, Nanyang Technological University.
 
 ## Current projects
-Our research activities may be broadly divided into two areas: bio-data science and education technology.
+Our research activities may be broadly divided into two areas: biodata science and education technology.
 
-[**Bio-data science**](https://gohwils.github.io/biodatascience/biodatascience) is an exciting new area where the associative technologies associated with data science and relevant thinking skills are applied onto biological and health-related problems.
+[**Biodata science**](https://gohwils.github.io/biodatascience/biodatascience) is an exciting new area where the associative technologies associated with data science and relevant thinking skills are applied onto biological and health-related problems.
 
 These may include how to resolve batch effect problems when effecting large-scale data mergers, improving study reproducibility, and understanding how choice of normalization method impacts downstream data modeling. We are are also very interested in understanding how heterogeneity and data holes impacts outcome of analysis, especially in how it affects our interpretation of the underlying biological system.
 
@@ -12,7 +12,7 @@ Our interest in [**Education technology (EdTech)**](https://gohwils.github.io/bi
 
 Link out below to find out more about each area and our work/contributions
 
-### Bio-Data Science and Computational Biology
+### BioData Science and Computational Biology
 1. [Dealing with confounders in omics analysis](https://gohwils.github.io/biodatascience/confounders)
 2. [Enabling more sophisticated proteomic profile analysis](https://gohwils.github.io/biodatascience/proteomics)
 3. [Resolving the missing protein problem using meaningful context](https://gohwils.github.io/biodatascience/mpp)
