@@ -4,7 +4,7 @@ We are a research group comprised of bio-data scientists, computational biologis
 ## Current projects
 Our research activities may be broadly divided into two areas: bio-data science and education technology.
 
-**Bio-data science** is an exciting new area where the associative technologies associated with data science and relevant thinking skills are applied onto biological and health-related problems.
+[**Bio-data science**](https://gohwils.github.io/biodatascience/biodatascience) is an exciting new area where the associative technologies associated with data science and relevant thinking skills are applied onto biological and health-related problems.
 
 These may include how to resolve batch effect problems when effecting large-scale data mergers, improving study reproducibility, and understanding how choice of normalization method impacts downstream data modeling. We are are also very interested in understanding how heterogeneity and data holes impacts outcome of analysis, especially in how it affects our interpretation of the underlying biological system.
 
@@ -27,9 +27,9 @@ Link out below to find out more about each area and our work/contributions
 
 ## Our people (Meet the team)
 ### Research staff
-1. [Wilson Wen Bin Goh](https://gohwils.github.io/biodatascience/wilsongoh)
-2. [Ho Sung Yang](https://gohwils.github.io/biodatascience/hosungyang)
-3. [Justin Ng](https://gohwils.github.io/biodatascience/justinng)
+1. [Wilson Wen Bin Goh](https://gohwils.github.io/biodatascience/wilsongoh) (PI)
+2. [Ho Sung Yang](https://gohwils.github.io/biodatascience/hosungyang) (Research Assistant; Data Scientist)
+3. [Justin Ng](https://gohwils.github.io/biodatascience/justinng) (Research Fellow)
 
 ### Research students
 1. [Samuel Tan (PhD)](https://gohwils.github.io/biodatascience/samueltan)
