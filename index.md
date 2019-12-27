@@ -4,11 +4,11 @@ We are a research group comprised of biodata scientists, computational biologist
 ## Current projects
 Our research activities may be broadly divided into two areas: biodata science and education technology.
 
-[**Biodata science**](https://gohwils.github.io/biodatascience/biodatascience) is an exciting new area where the associative technologies associated with data science and relevant thinking skills are applied onto biological and health-related problems.
+[Biodata science](https://gohwils.github.io/biodatascience/biodatascience) is an exciting new area where the associative technologies associated with data science and relevant thinking skills are applied onto biological and health-related problems.
 
 These may include how to resolve batch effect problems when effecting large-scale data mergers, improving study reproducibility, and understanding how choice of normalization method impacts downstream data modeling. We are are also very interested in understanding how heterogeneity and data holes impacts outcome of analysis, especially in how it affects our interpretation of the underlying biological system.
 
-Our interest in [**Education technology (EdTech)**](https://gohwils.github.io/biodatascience/edtech)  pertains to the use of data analytics for analyzing student performance and also the development of software for facilitating learning. In particular, we are extremely interested in how we may leverage on big data and machine learning to unravel indicators of human-based deep learning. Instead of fielding our work on typical classroom-type settings, our interest is in combining EdTech with high-impact practices in teaching and learning, where deep learning is more likely to take place. Currently, we focus our research on NTU's unique [Deeper Experiential Engagement Project (DEEP)](https://gohwils.github.io/biodatascience/deep_programme), a large-scale pilot experiential learning project spread across different colleges.
+Our interest in [Education technology (EdTech)](https://gohwils.github.io/biodatascience/edtech)  pertains to the use of data analytics for analyzing student performance and also the development of software for facilitating learning. In particular, we are extremely interested in how we may leverage on big data and machine learning to unravel indicators of human-based deep learning. Instead of fielding our work on typical classroom-type settings, our interest is in combining EdTech with high-impact practices in teaching and learning, where deep learning is more likely to take place. Currently, we focus our research on NTU's unique [Deeper Experiential Engagement Project (DEEP)](https://gohwils.github.io/biodatascience/deep_programme), a large-scale pilot experiential learning project spread across different colleges.
 
 Link out below to find out more about each area and our work/contributions
 
@@ -19,7 +19,6 @@ Link out below to find out more about each area and our work/contributions
 4. [Understanding the cost of batch effects in biological big data analysis](https://gohwils.github.io/biodatascience/batcheffects)
 5. [Developing graph literacy skills](https://gohwils.github.io/biodatascience/graphliteracy)
 6. [How to improve upon weak validation practices in current machine learning](https://gohwils.github.io/biodatascience/weakvalidationpractice)
-
 
 ### Education Technology
 1. [Not feeling it --- How does sentiment and motivation affect academic performance?](https://gohwils.github.io/biodatascience/ACE)
@@ -59,14 +58,13 @@ These talented individuals include:
 6. [Tiannan Guo](http://www.guomics.com/nd.jsp?id=31)
 
 ## Contact or join us
-We are located at level 3 North wing of the School of Biological Sciences (60 Nanyang Drive, Singapore 637551)
+We are located at level 3 north wing of the School of Biological Sciences (60 Nanyang Drive, Singapore 637551).
 
 We are always on the lookout for exciting new talent to join the team.
 
-For full-time staff, we have vacancies for research fellows, associates and assistants. Do check out the NTU jobs portal for ads or check with us directly.
+For full-time staff, we have vacancies for research fellows, associates and assistants. Do check out the [NTU jobs portal](http://www.sbs.ntu.edu.sg/aboutus/JobOpeningsinSBS/Pages/default.aspx) for ads or check with us directly.
 
 For undergraduate students, we do post available projects on the relevant project portals (e.g. URECA, FYP or CN Yang). You may also approach us directly to discuss customized projects (preferred). Do note that you are required to have certain proficiency in programming skills, mathematics, statistics and algorithms.
-
 
 For prospective graduate students (MSc or PhD), please write in directly to [myself](mailto: wilsongoh@ntu.edu.sg) or to [Limsoon](mailto:wongls@comp.nus.edu.sg).
 
