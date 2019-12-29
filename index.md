@@ -49,18 +49,16 @@ Link out below to find out more about each area and our work/contributions
 
 ## Courses (Taught by us)
 ### Undergraduate courses
-- [2019, BS3033, Data Science for Biologists](https://gohwils.github.io/biodatascience/bs3033)
-- [2019, BS0004, Introduction to Data Science](https://gohwils.github.io/biodatascience/bs0004)
-- [2019, BS03349, Introduction to R programming](https://gohwils.github.io/biodatascience/bs3349)
-- [2017, BS3012, Computational Proteomics](https://gohwils.github.io/biodatascience/bs3012)
+- [BS3033, Data Science for Biologists](https://gohwils.github.io/biodatascience/bs3033)
+- [BS0004, Introduction to Data Science](https://gohwils.github.io/biodatascience/bs0004)
+- [BS03349, Introduction to R programming](https://gohwils.github.io/biodatascience/bs3349)
+- [BS3012, Computational Proteomics](https://gohwils.github.io/biodatascience/bs3012)
 
 ### Graduate courses
-- [2018, IH7001, Bioinformatics](https://gohwils.github.io/biodatascience/ih7001)
+- [IH7001, Bioinformatics](https://gohwils.github.io/biodatascience/ih7001)
 
 ## Collaborations
-We are highly collaborative, and work with a multitude of experts in and out of Singapore.
-
-These talented individuals include:
+We are highly collaborative, and work with a multitude of experts in and out of Singapore. These include:
 1. [Limsoon Wong](https://www.comp.nus.edu.sg/~wongls/)
 2. [Jimmy Lee](https://www.imh.com.sg/uploadedFiles/Research/Dr%20Jimmy%20Lee.pdf)
 3. [Andrew Tan](http://www.sbs.ntu.edu.sg/aboutus/Faculty/NSTan/Pages/Home.aspx)
@@ -71,8 +69,9 @@ These talented individuals include:
 ## Contact or join us
 We are located at level 3 north wing of the School of Biological Sciences (60 Nanyang Drive, Singapore 637551).
 
-We are always on the lookout for exciting new talent to join the team. If what you have read so far makes you think and curious, drop us an email at [biodatascienceandeducation@e.ntu.edu.sg](mailto:biodatascienceandeducation@e.ntu.edu.sg).
+We are open to consultative and development work with industrial, educational and business partners. Do drop us an email at [biodatascienceandeducation@e.ntu.edu.sg](mailto:biodatascienceandeducation@e.ntu.edu.sg).
 
+We are always on the lookout for exciting new talent to join the team:
 For full-time staff, we have vacancies for research fellows, associates and assistants. Do check out the [NTU jobs portal](http://www.sbs.ntu.edu.sg/aboutus/JobOpeningsinSBS/Pages/default.aspx) for ads or check with us directly.
 
 For undergraduate students, we do post available projects on the relevant project portals (e.g. URECA, FYP or CN Yang). You may also approach [us](mailto:biodatascienceandeducation@e.ntu.edu.sg) directly to discuss customized projects (preferred). Do note that you are required to have certain proficiency in programming skills, mathematics, statistics and algorithms.
