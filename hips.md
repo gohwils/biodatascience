@@ -1,7 +1,7 @@
 ## High-impact pedagogical practices
 While AI-driven education is a powerful paradigm shift, it may raise questions on how teaching practices should co-evolve with (and not merely rely passively on) AI. Bloom’s taxonomy (BT), a levelling system for learning outcomes (Figure 1A) – is a useful basis for this discussion. 
 
-![fig 1](/images/hips_Fig1.tiff)
+![fig 1](/images/hips_Fig1.png)
 
 BT suggests that high level outcomes (create) are built on lower level outcomes (remember). Human work that draws on learning acquired at BT levels 1-3 may be substituted by AI. From the perspective of training novices, AI-AL can help novices scale BT levels faster, since they may, concurrent to their learning at lower BT levels, use AI to perform tasks to generate outputs for higher BT level training. As the learners gain solid foundation (i.e. attained lower BT levels), they can move on to higher-level deployment by synergizing with AI technologies to promote creativity and innovation. By then, they would have sufficient knowledge base to properly evaluate AI outputs for accuracy and value. With this advantage of AI in scaling the lower BT levels, adopting pedagogical approaches that focus more on honing BT levels 4-6 of human capacity is critical towards achieving better synergy with AI-driven education, particularly, to “action-ate” on connections AI makes in the network of knowledge.
 
