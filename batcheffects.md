@@ -14,3 +14,16 @@ As today's data science relies heavily on machine learning and AI tools to learn
 
 
 A: We may broadly categorize biological features as those which are associated with class effect (Class-related), batch effect (Batch-related) or completely neutral (Non-related). B: Despite the seeming resolution of batch effect as shown in the principal-component scatterplot (i.e., same class samples aggregate together), individual features may still exhibit strong batch correlation. In this case, a top-ranked feature has stronger correlation with batch (1 and 2) than with class (N and D). C: Meta-analysis does not always agree with each other and can cause us to lose sight of the true picture. Here, we show the correlation between two features, genes X and Y, across studies 1 to 3. The dotted colored lines correspond to the regression for each study, which suggests different relationships between X and Y. The purple dotted line is the true relationship, observable only by combining all three studies. D: Subpopulation effects, if not properly protected, can be lost via batch-effect correction. Information on disease subpopulations can be critical; e.g. in breast cancer, patients are allotted different treatments based on whether they express the estrogen receptor or not. Since certain drugs target the estrogen receptor, patients who do not express the receptor will not benefit from the drug yet have to suffer its potential side effects.
+
+## Team members
+1. Zhao Yaxing
+2. Zhou Longjian
+3. Limsoon Wong
+4. Wilson Wen Bin Goh
+
+## Relevant publications
+1. Zhou LJ , Sue ACH, Goh WWB. Examining the practical limits of batch effect correction algorithms: When should you care about batch effects? Journal of Genetics and Genomics, Accepted (doi.org/10.1016/j.jgg.2019.08.002)
+2. 24.	Goh WWB, Wang W, Wong LS. Why batch effects matter in omics data, and how to avoid them. Trends in Biotechnology, S0167-7799(17)30036-7, Mar 2017
+25.	Goh WWB, Wong LS. Protein complex-based analysis is resistant to the obfuscating consequences of batch effects --- A case study in clinical proteomics. BMC Genomics, 18(Suppl 2):142, Mar 2017
+
+
