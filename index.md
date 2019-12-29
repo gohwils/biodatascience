@@ -38,7 +38,7 @@ Link out below to find out more about each area and our work/contributions
 5. [Wee Yuhui (BSc)](https://gohwils.github.io/biodatascience/weeyuhui)
 6. [Jordan Kho (BSc)](https://gohwils.github.io/biodatascience/jordankho)
 7. [Kimberly Phua (BSc)](https://gohwils.github.io/biodatascience/kimberlyphua)
-8. [Nicole Kan (BSc)](https://gohwils.github.io/biodatascience/nicolekhan)
+8. [Nicole Kan (BSc)](https://gohwils.github.io/biodatascience/nicolekan)
 
 ## Alumni
 1. Felicia Ngan, BSc
