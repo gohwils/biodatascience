@@ -57,7 +57,7 @@ Link out below to find out more about each area and our work/contributions
 ### Graduate courses
 - [IH7001, Bioinformatics](https://gohwils.github.io/biodatascience/ih7001)
 
-### Works and hackathons
+### Workshops and hackathons
 - We are affiliated with the NTU BioHackathon club, which organizes programming and data science training workshops for both undergraduate and graduate students. Click [here](https://sbsbiohackathon.com/) to check out upcoming workshops.
 
 ### Masters of Science in Biomedical Data Science
