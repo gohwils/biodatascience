@@ -20,4 +20,11 @@ Preliminary work as proof-of-concept on how AI can be used for classifying text-
 ### Reference
 [1] Goh WWB, Sze CC. AI paradigms for teaching biotechnology. Trends in Biotechnology, 37(1): 1-5, Jan 2019
 
+## Team members
+1. Nicole Kan
+2. Justin Ng
+3. Ho Sung Yang
+4. Sophia Tan 
+5. Chun Chau Sze
+6. Wilson Wen Bin Goh
 
