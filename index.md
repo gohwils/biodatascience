@@ -41,7 +41,7 @@ Link out below to find out more about each area and our work/contributions
 7. [Kimberly Phua (BSc)](https://gohwils.github.io/biodatascience/kimberlyphua)
 8. [Nicole Kan (BSc)](https://gohwils.github.io/biodatascience/nicolekan)
 
-## Alumni
+### Alumni
 1. Felicia Ngan, BSc
 2. Chon Hui Min, BSc
 3. Lu Tianyi, BSc
