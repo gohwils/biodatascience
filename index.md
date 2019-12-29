@@ -47,7 +47,7 @@ Link out below to find out more about each area and our work/contributions
 3. Lu Tianyi, BSc
 4. Wei Wang, MSc
 
-## Courses (Taught by us)
+## Courses and training programmes (Taught by us)
 ### Undergraduate courses
 - [BS3033, Data Science for Biologists](https://gohwils.github.io/biodatascience/bs3033)
 - [BS0004, Introduction to Data Science](https://gohwils.github.io/biodatascience/bs0004)
@@ -56,6 +56,12 @@ Link out below to find out more about each area and our work/contributions
 
 ### Graduate courses
 - [IH7001, Bioinformatics](https://gohwils.github.io/biodatascience/ih7001)
+
+### Works and hackathons
+- We are affiliated with the NTU BioHackathon club, which organizes programming and data science training workshops for both undergraduate and graduate students. Click [here](https://sbsbiohackathon.com/) to check out upcoming workshops.
+
+### Masters of Science in Biomedical Data Science
+- Wilson runs the above programme (to begin in 2020). More information coming soon.
 
 ## Collaborations
 We are highly collaborative, and work with a multitude of experts in and out of Singapore. These include:
