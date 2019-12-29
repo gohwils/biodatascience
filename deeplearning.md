@@ -26,7 +26,8 @@ Preliminary work as proof-of-concept on how AI can be used for classifying text-
 3. Ho Sung Yang
 4. Sophia Tan 
 5. Chun Chau Sze
-6. Wilson Wen Bin Goh
+6. Limsoon Wong
+7. Wilson Wen Bin Goh
 
 ## Relevant publications
 Coming soon
