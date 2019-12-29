@@ -23,6 +23,7 @@ Link out below to find out more about each area and our work/contributions
 ### Education Technology
 1. [Not feeling it --- How does sentiment and motivation affect academic performance?](https://gohwils.github.io/biodatascience/ACE)
 2. [Using machine-based deep learning to uncover the signs of human-based deep learning](https://gohwils.github.io/biodatascience/deeplearning)
+3. [High-impact pedagogical practices](https://gohwils.github.io/biodatascience/hips)
 
 ## Our people (Meet the team)
 ### Research staff
