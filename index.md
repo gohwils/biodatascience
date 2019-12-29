@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-155158305-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-155158305-1');
+</script>
+
 ## Welcome to the BioData Science and Education Laboratory
 We are a research group comprised of biodata scientists, computational biologists and education technologists in the School of Biological Sciences, Nanyang Technological University.
 
