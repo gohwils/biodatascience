@@ -1,6 +1,6 @@
 ### Samuel Tan
 
-![file___](https://gohwils.github.io/biodatascience/images/___)
+![Samuel](https://gohwils.github.io/biodatascience/images/samuel.jpeg)
 
 **Project Details**
 
