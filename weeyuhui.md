@@ -1,6 +1,6 @@
 ### Wee Yuhui
 
-!<file>(https://gohwils.github.io/biodatascience/images/______)
+![Yuhui](https://gohwils.github.io/biodatascience/images/yuhui.jpeg)
 
 
 **About me**
