@@ -63,6 +63,7 @@ Link out below to find out more about each area and our work/contributions
 - [BS0004, Introduction to Data Science](https://gohwils.github.io/biodatascience/bs0004)
 - [BS03349, Introduction to R programming](https://gohwils.github.io/biodatascience/bs3349)
 - [BS3012, Computational Proteomics](https://gohwils.github.io/biodatascience/bs3012)
+- [BS1009, Introduction to computational thinking](https://gohwils.github.io/biodatascience/1009)
 
 ### Graduate courses
 - [IH7001, Bioinformatics](https://gohwils.github.io/biodatascience/ih7001)
