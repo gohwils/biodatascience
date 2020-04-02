@@ -1,5 +1,4 @@
 ## Kimberly Phua
 
-![fig Kimberly](https://github.com/gohwils/biodatascience/tree/master/images/Kimberly.jpeg)
-
+![fig_Kimberly](https://gohwils.github.io/biodatascience/images/Kimberly.jpeg)
 
