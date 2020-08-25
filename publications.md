@@ -1,6 +1,6 @@
-##Publications
+## Publications
 
-###Feature Selection and Network Modelling
+### Feature Selection and Network Modelling
 
 1.	Goh WWB, Wong LS. NetProt: Complex-based feature selection. Journal of Proteome Research, 16(8):3102–3112, June 2017 #
 2.	Goh WWB, Wong LS. Class-paired Fuzzy SubNETs: A paired variant of the rank-based network analysis family for feature selection based on protein complexes. Proteomics, 17(10):1700093, May 2017 #
@@ -19,7 +19,7 @@
 15.	Goh WWB, Oikawa H, Sng J, Sergot M, Wong LS. The role of miRNAs in regulating complex formation. Bioinformatics, 28(4):453-456, Feb 2012 ##
 16.	Goh WWB, Lee YH, Ramdzan Z, Jin JJ, Dong DF, Lin QS, Chung M, Wong LS. A network-based pipeline for analyzing MS data – An application towards liver cancer. Journal of Proteome Research, 10(5):2261-2272, May 2011 #
 
-###Normalization Techniques, Batch Effects and Pure Statistics
+### Normalization Techniques, Batch Effects and Pure Statistics
 
 17.	**Zhao Y, Wong LS, Goh WWB. **Zhao Y, Wong LS, Goh WWB. Doing quantile normalization right (Under review at Scientific Reports). Scientific Reports, Accepted
 18.	*Zhou LJ, Sue ACH, Goh WWB. Examining the practical limits of batch effect correction algorithms: When should you care about batch effects? Journal of Genetics and Genomics, 46(9):433-443, Sep 2019 
@@ -30,13 +30,13 @@
 23.	**Goh WWB, Wang W, Wong LS. Why batch effects matter in omics data, and how to avoid them. Trends in Biotechnology, S0167-7799(17)30036-7, Mar 2017 ##
 24.	Goh WWB, Wong LS. Protein complex-based analysis is resistant to the obfuscating consequences of batch effects --- A case study in clinical proteomics. BMC Genomics, 18(Suppl 2):142, Mar 2017 #
 
-###Missing Protein Prediction (Proteomics)
+### Missing Protein Prediction (Proteomics)
 
 25.	**Zhao Y, Sue ACH, Goh WWB. Deeper investigation into the utility of functional class scoring in missing protein prediction from proteomics data. Journal of Bioinformatics and Computational Biology, 17(2):1950013, Apr 2019
 26.	*Zhou L, Wong LS, Goh WWB. Understanding missing proteins: a functional perspective. Drug Discovery Today, 23(3):644-651, Mar 2018 ##
 27.	Goh WWB, Sergot M, Sng J, Wong LS. Comparative network-based recovery analysis and proteomic profiling of neurological changes in valproic acid-treated mice. Journal of Proteome Research, 12(5):2116-27, May 2013 #
 
-Experimental Design and Principles
+### Experimental Design and Principles
 
 28.	Goh WWB, Wong LS. Advanced bioinformatics methods for practical applications of proteomics. Briefings in Bioinformatics, 20(1):347-355, Jan 2019 ##
 29.	Goh WWB, Wong LS. Dealing with confounders in -omics analysis. Trends in Biotechnology, 36(5):488-498, May 2018 ##
@@ -47,7 +47,7 @@ Experimental Design and Principles
 34.	Goh WWB, Wong LS. Networks in proteomics analysis of cancer. Current Opinion in Biotechnology, 24(6):1122--1128, Dec 2013 ##
 35.	Goh WWB, Lee YH, Chung MCM, Wong LS. How advancement in biological network analyses methods empowers proteomics analyses.  Proteomics, 12(4-5):550-563, Feb 2012 #
 
-###Applied Bioinformatics and Data Science
+### Applied Bioinformatics and Data Science
 
 36.	Ho, N, Wu H, Xu J, Koh JH, Yap WS, Goh WWB, Chong SC, Taubert S, Thibault G. The Unfolded Protein Response Activation and Transcriptome Are Orchestrated to Lipid Bilayer Stress. Journal of Cell Biology, Accepted ##
 37.	**Ho SY, Wong L, Goh WWB. Avoid oversimplifications in machine learning: Going beyond the class-prediction accuracy. Patterns (Cellpress), 1(2):100025, May 2020
@@ -65,7 +65,7 @@ Experimental Design and Principles
 49.	Leow KY, Goh WWB, Heng CK. Effect of SAA1 on global gene expression THP-1 derived macrophages. Inflammation Research, 61(4):391-398, Jan 2012 
 50.	Ruan Y, Ooi HS, Siew WC, Chiu, KP, Zhao XD, Srinivasa KG, Yao F, Choo CY, Nuwantha P, Kalpana R, Goh WWB, Shahab A, Sung WK, Bourque G, Pallanisamy N, Wei CL.  Fusion transcripts and transcribed retrotransposed loci discovered through comprehensive transcriptome analysis using Paired-End Ditagging (PET). Genome Research, 17:828-838, Jun 2007 ##
 
-###Education
+### Education
 
 51.	**Ho SY, Sze CC, Wong L, Goh WWB. What can Venn diagrams teach us about doing data science better?  International Journal of Data Science and Analytics, Accepted
 52.	Goh WWB, Sze CC. AI paradigms for teaching biotechnology. Trends in Biotechnology, 37(1): 1-5, Jan 2019 ##
@@ -75,7 +75,7 @@ Experimental Design and Principles
 
 
 
-###What the strange signs mean
+### What the strange signs mean
 Bold	Denotes corresponding author
 
 **	Denotes directly supervised research staff, i.e. POs, RAs, RFs, postdocs, etc.
