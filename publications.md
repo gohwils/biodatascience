@@ -80,7 +80,7 @@ Bold	Denotes corresponding author
 
 **	Denotes directly supervised research staff, i.e. POs, RAs, RFs, postdocs, etc.
 
-*	Denotes PhD students (supervised or co-supervised)
+\*	Denotes PhD students (supervised or co-supervised)
 
 \## 	Denotes Tier 1A papers
 
