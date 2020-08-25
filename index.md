@@ -20,7 +20,7 @@ These may include how to resolve batch effect problems when effecting large-scal
 
 Our interest in [Education technology (EdTech)](https://gohwils.github.io/biodatascience/edtech)  pertains to the use of data analytics for analyzing student performance and also the development of software for facilitating learning. In particular, we are interested in how we may leverage on big data and machine learning to unravel indicators of human-based deep learning. Instead of fielding our work on typical classroom-type settings, our interest is in combining EdTech with high-impact practices in teaching and learning, where deep learning is more likely to take place. Currently, we focus our research on NTU's unique [Deeper Experiential Engagement Project (DEEP)](https://gohwils.github.io/biodatascience/deep_programme), a large-scale pilot experiential learning project spread across different colleges.
 
-Link out below to find out more about each area and our work/contributions
+Link out below to find out more about each area and our work/contributions.
 
 ### BioData Science and Computational Biology
 1. [Dealing with confounders in omics analysis](https://gohwils.github.io/biodatascience/confounders)
@@ -34,6 +34,9 @@ Link out below to find out more about each area and our work/contributions
 1. [Not feeling it --- How does sentiment and motivation affect academic performance?](https://gohwils.github.io/biodatascience/ACE)
 2. [Using machine-based deep learning to uncover the signs of human-based deep learning](https://gohwils.github.io/biodatascience/deeplearning)
 3. [High-impact pedagogical practices](https://gohwils.github.io/biodatascience/hips)
+
+## Publications
+Check out our latest works [here](https://gohwils.github.io/biodatascience/publications). 
 
 ## Our people (Meet the team)
 ### Research staff
