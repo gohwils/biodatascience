@@ -49,6 +49,9 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 4. [Wee Yuhui (BSc)](https://gohwils.github.io/biodatascience/weeyuhui)
 5. [Jordan Kho (BSc)](https://gohwils.github.io/biodatascience/jordankho)
 6. [Lejia Lin (BSc)](https://gohwils.github.io/biodatascience/lejia)
+7. [Lirong Wang (BSc)](https://gohwils.github.io/biodatascience/lirong)
+8. [Bertrand Wang Jernhan (BSc)](https://gohwils.github.io/biodatascience/bertrand)
+9. [Wenxuan Kong (BSc)](https://gohwils.github.io/biodatascience/wenxuan)
 
 ### Alumni
 1. Felicia Ngan, BSc
@@ -60,7 +63,8 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 7. [Zhao Yaxing (MSc)](https://gohwils.github.io/biodatascience/zhaoyaxing)
 8. [Kimberly Phua (BSc)](https://gohwils.github.io/biodatascience/kimberlyphua)
 9. [Nicole Kan (BSc)](https://gohwils.github.io/biodatascience/nicolekan)
-
+10. Bernard Koh
+11. Kaijin Soh
 
 ## Courses and training programmes (Taught by us)
 ### Undergraduate courses
