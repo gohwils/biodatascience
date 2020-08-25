@@ -79,5 +79,5 @@ Experimental Design and Principles
 Bold	Denotes corresponding author
 **	Denotes directly supervised research staff, i.e. POs, RAs, RFs, postdocs, etc.
 *	Denotes PhD students (supervised or co-supervised)
-## 	Denotes Tier 1A papers
-#	Denotes Tier 1B papers
+\## 	Denotes Tier 1A papers
+\#	Denotes Tier 1B papers
