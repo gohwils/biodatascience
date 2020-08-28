@@ -1,6 +1,6 @@
 ## Tng Jia Wei Teddy
 
-
+![teddy_image](/images/teddy.jpeg)
 
 
 Project: Effectiveness of Principal Component Analysis (PCA) in filtering through class genes in the presence of batch effects. 
