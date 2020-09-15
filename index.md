@@ -72,6 +72,7 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 12. Fu Ting Ting
 13. Toh Shergi
 14. Leon Yao Jinchi
+15. Zenghao Lim (Research Assistant)
 
 ## Courses and training programmes (Taught by us)
 ### Undergraduate courses
@@ -98,6 +99,7 @@ We are highly collaborative, and work with a multitude of experts in and out of 
 4. [Guillaume Thibault](http://www.thibaultlab.com/)
 5. [Tan Suet Mien](http://sbs.ntu.edu.sg/aboutus/Faculty/SMTan/Pages/Home.aspx)
 6. [Tiannan Guo](http://www.guomics.com/nd.jsp?id=31)
+7. [Nikola Kasabov](https://kedri.aut.ac.nz/)
 
 ## Contact or join us
 We are located at level 3 north wing of the School of Biological Sciences (60 Nanyang Drive, Singapore 637551).
