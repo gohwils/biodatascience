@@ -46,17 +46,17 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 ### Research students
 1. [Samuel Tan (PhD)](https://gohwils.github.io/biodatascience/samueltan)
 2. [Zhou Longjian (PhD)](https://gohwils.github.io/biodatascience/zhoulongjian)
-3. [Joan Jong (BSc)](https://gohwils.github.io/biodatascience/joanjong)
-4. [Wee Yuhui (BSc)](https://gohwils.github.io/biodatascience/weeyuhui)
-5. [Jordan Kho (BSc)](https://gohwils.github.io/biodatascience/jordankho)
-6. [Lejia Lin (BSc)](https://gohwils.github.io/biodatascience/lejia)
-7. [Lirong Wang (BSc)](https://gohwils.github.io/biodatascience/lirong)
-8. [Bertrand Wang Jernhan (BSc)](https://gohwils.github.io/biodatascience/bertrand)
-9. [Wenxuan Kong (BSc)](https://gohwils.github.io/biodatascience/wenxuan)
-10. [Priscila Sun Yunqian (BSc)](https://gohwils.github.io/biodatascience/priscila)
-11. [Damien Chua (BSc)](https://gohwils.github.io/biodatascience/damien)
+3. [Kong Weijia (PhD)](https://gohwils.github.io/biodatascience/kongweijia)
+4. [Joan Jong (BSc)](https://gohwils.github.io/biodatascience/joanjong)
+5. [Wee Yuhui (BSc)](https://gohwils.github.io/biodatascience/weeyuhui)
+6. [Jordan Kho (BSc)](https://gohwils.github.io/biodatascience/jordankho)
+7. [Lejia Lin (BSc)](https://gohwils.github.io/biodatascience/lejia)
+8. [Lirong Wang (BSc)](https://gohwils.github.io/biodatascience/lirong)
+9. [Bertrand Wang Jernhan (BSc)](https://gohwils.github.io/biodatascience/bertrand)
+10. [Wenxuan Kong (BSc)](https://gohwils.github.io/biodatascience/wenxuan)
+11. [Priscila Sun Yunqian (BSc)](https://gohwils.github.io/biodatascience/priscila)
 12. [Tng Jia Wei Teddy (BSc)](https://gohwils.github.io/biodatascience/teddy)
-13. [Lee Yue Xin](https://gohwils.github.io/biodatascience/yuexin)
+13. [Lee Yue Xin (BSc)](https://gohwils.github.io/biodatascience/yuexin)
 
 ### Alumni
 1. Felicia Ngan, BSc
@@ -74,6 +74,7 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 13. Toh Shergi
 14. Leon Yao Jinchi
 15. Zenghao Lim (Research Assistant)
+16. [Damien Chua (BSc)](https://gohwils.github.io/biodatascience/damien)
 
 ## Courses and training programmes (Taught by us)
 ### Undergraduate courses
