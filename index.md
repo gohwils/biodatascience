@@ -89,7 +89,7 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 - We are affiliated with the NTU BioHackathon club, which organizes programming and data science training workshops for both undergraduate and graduate students. Click [here](https://sbsbiohackathon.com/) to check out upcoming workshops.
 
 ### Masters of Science in Biomedical Data Science
-- Wilson runs the above programme (to begin in 2020). More information coming soon.
+- Wilson runs the above programme (to begin in 2020). You can find out more about this exciting programme at [MSBDS](http://sbs.ntu.edu.sg/Programmes/GraduateByCourseWork/Pages/home.aspx)
 
 ## Collaborations
 We are highly collaborative, and work with a multitude of experts in and out of Singapore. These include:
