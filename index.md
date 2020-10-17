@@ -100,6 +100,7 @@ We are highly collaborative, and work with a multitude of experts in and out of 
 5. [Tan Suet Mien](http://sbs.ntu.edu.sg/aboutus/Faculty/SMTan/Pages/Home.aspx)
 6. [Tiannan Guo](http://www.guomics.com/nd.jsp?id=31)
 7. [Nikola Kasabov](https://kedri.aut.ac.nz/)
+8. [Lim Kah Leong](http://www.lkcmedicine.ntu.edu.sg/aboutus/Faculty-and-Staff/Pages/Lim-Kah-Leong.aspx)
 
 ## Contact or join us
 We are located at level 3 north wing of the School of Biological Sciences (60 Nanyang Drive, Singapore 637551).
