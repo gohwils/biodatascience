@@ -56,6 +56,7 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 10. [Priscila Sun Yunqian (BSc)](https://gohwils.github.io/biodatascience/priscila)
 11. [Damien Chua (BSc)](https://gohwils.github.io/biodatascience/damien)
 12. [Tng Jia Wei Teddy (BSc)](https://gohwils.github.io/biodatascience/teddy)
+13. [Lee Yue Xin](https://gohwils.github.io/biodatascience/yuexin)
 
 ### Alumni
 1. Felicia Ngan, BSc
