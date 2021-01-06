@@ -42,6 +42,7 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 ### Research staff
 1. [Wilson Wen Bin Goh](https://gohwils.github.io/biodatascience/wilsongoh) (PI)
 2. [Anna Chew](https://gohwils.github.io/biodatascience/anna) (Project Officer)
+3. [Darius Chan](https://gohwils.github.io/biodatascience/dariuschan) (Research Associate)
 
 ### Research students
 1. [Samuel Tan (PhD)](https://gohwils.github.io/biodatascience/samueltan)
@@ -57,6 +58,8 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 11. [Priscila Sun Yunqian (BSc)](https://gohwils.github.io/biodatascience/priscila)
 12. [Tng Jia Wei Teddy (BSc)](https://gohwils.github.io/biodatascience/teddy)
 13. [Lee Yue Xin (BSc)](https://gohwils.github.io/biodatascience/yuexin)
+14. [Xue Hai Tao (MSc)](https://gohwils.github.io/biodatascience/xuehaitao)
+15. [Jiao Yan (MSc)](https://gohwils.github.io/biodatascience/jiaoyan)
 
 ### Alumni
 1. Felicia Ngan, BSc
