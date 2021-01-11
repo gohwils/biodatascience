@@ -48,7 +48,7 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 - [Samuel Tan (PhD)](https://gohwils.github.io/biodatascience/samueltan)
 - [Zhou Longjian (PhD)](https://gohwils.github.io/biodatascience/zhoulongjian)
 - [Kong Weijia (PhD)](https://gohwils.github.io/biodatascience/kongweijia)
-- [Sugam Budhraja (PhD](https://gohwils.github.io/biodatascience/sugam)
+- [Sugam Budhraja (PhD)](https://gohwils.github.io/biodatascience/sugam)
 - [Xue Hai Tao (MSc)](https://gohwils.github.io/biodatascience/xuehaitao)
 - [Jiao Yan (MSc)](https://gohwils.github.io/biodatascience/jiaoyan)
 - [Joan Jong (BSc)](https://gohwils.github.io/biodatascience/joanjong)
