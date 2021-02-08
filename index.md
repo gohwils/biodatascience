@@ -63,6 +63,7 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 - [Lee Yue Xin (BSc)](https://gohwils.github.io/biodatascience/yuexin)
 - [Shalina Sham (BSc)](https://gohwils.github.io/biodatascience/shalina)
 - [Enoch Mok (BSc)](https://gohwils.github.io/biodatascience/enoch)
+- [Wu Wenshan (BSc)](https://gohwils.github.io/biodatascience/wenshan)
 
 
 ### Alumni
