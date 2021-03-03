@@ -41,6 +41,7 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 ## Our people (Meet the team)
 ### Research staff
 - [Wilson Wen Bin Goh](https://gohwils.github.io/biodatascience/wilsongoh) (PI)
+- [Leonard Tan](https://gohwils.github.io/biodatascience/leonardtan) (Research Scientist)
 - [Anna Chew](https://gohwils.github.io/biodatascience/anna) (Project Officer)
 - [Darius Chan](https://gohwils.github.io/biodatascience/darius) (Research Associate)
 
