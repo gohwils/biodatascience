@@ -120,7 +120,9 @@ We are highly collaborative, and work with a multitude of experts in and out of 
 8. [Lim Kah Leong](http://www.lkcmedicine.ntu.edu.sg/aboutus/Faculty-and-Staff/Pages/Lim-Kah-Leong.aspx)
 
 ## Contact or join us
-We are located at level 3 north wing of the School of Biological Sciences (60 Nanyang Drive, Singapore 637551).
+We now have 2 sites for our expanding lab.
+Level 3 north wing of the School of Biological Sciences (60 Nanyang Drive, Singapore 637551).
+Level 4 Experimental Medicine Building (EMB) (59 Nanyang Drive, Singapore 636921).
 
 We are open to consultative and development work with industrial, educational and business partners. Do drop us an email at [biodatascienceandeducation@e.ntu.edu.sg](mailto:biodatascienceandeducation@e.ntu.edu.sg).
 
