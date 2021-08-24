@@ -43,7 +43,7 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 - [Wilson Wen Bin Goh](https://gohwils.github.io/biodatascience/wilsongoh) (PI)
 - [Leonard Tan](https://gohwils.github.io/biodatascience/leonardtan) (Research Scientist)
 - [Anna Chew](https://gohwils.github.io/biodatascience/anna) (Project Officer)
-- [Darius Chan](https://gohwils.github.io/biodatascience/darius) (Research Associate)
+- [Lee Yue Xin (BSc)](https://gohwils.github.io/biodatascience/yuexin) (Project Officer)
 
 ### Research students
 - [Samuel Tan (PhD)](https://gohwils.github.io/biodatascience/samueltan)
@@ -51,22 +51,13 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 - [Kong Weijia (PhD)](https://gohwils.github.io/biodatascience/kongweijia)
 - [Sugam Budhraja (PhD)](https://gohwils.github.io/biodatascience/sugam)
 - [Xue Hai Tao (MSc)](https://gohwils.github.io/biodatascience/xuehaitao)
-- [Jiao Yan (MSc)](https://gohwils.github.io/biodatascience/jiaoyan)
-- [Joan Jong (BSc)](https://gohwils.github.io/biodatascience/joanjong)
-- [Wee Yuhui (BSc)](https://gohwils.github.io/biodatascience/weeyuhui)
-- [Jordan Kho (BSc)](https://gohwils.github.io/biodatascience/jordankho)
-- [Lejia Lin (BSc)](https://gohwils.github.io/biodatascience/lejia)
-- [Lirong Wang (BSc)](https://gohwils.github.io/biodatascience/lirong)
-- [Bertrand Wang Jernhan (BSc)](https://gohwils.github.io/biodatascience/bertrand)
-- [Wenxuan Kong (BSc)](https://gohwils.github.io/biodatascience/wenxuan)
-- [Priscila Sun Yunqian (BSc)](https://gohwils.github.io/biodatascience/priscila)
+- [Guo Zexi (MSc)](https://gohwils.github.io/biodatascience/guozexi)
 - [Tng Jia Wei Teddy (BSc)](https://gohwils.github.io/biodatascience/teddy)
-- [Lee Yue Xin (BSc)](https://gohwils.github.io/biodatascience/yuexin)
-- [Shalina Sham (BSc)](https://gohwils.github.io/biodatascience/shalina)
-- [Enoch Mok (BSc)](https://gohwils.github.io/biodatascience/enoch)
 - [Wu Wenshan (BSc)](https://gohwils.github.io/biodatascience/wenshan)
-- [Lim KaiPeng (BSc)](https://gohwils.github.io/biodatascience/kaipeng)
-
+- [Cheryl Quek](https://gohwils.github.io/biodatascience/cherylquek)
+- [Nicholas Lee Bowen](https://gohwils.github.io/biodatascience/nicholaslee)
+- [Choy Xin Yun](https://gohwils.github.io/biodatascience/choyxinyun)
+- [Huang Zelu](https://gohwils.github.io/biodatascience/huangzelu)
 
 ### Alumni
 - Felicia Ngan, BSc
@@ -85,6 +76,20 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 - Leon Yao Jinchi
 - Zenghao Lim (Research Assistant)
 - [Damien Chua (BSc)](https://gohwils.github.io/biodatascience/damien)
+- [Darius Chan](https://gohwils.github.io/biodatascience/darius) (Research Associate)
+- [Lim KaiPeng (BSc)](https://gohwils.github.io/biodatascience/kaipeng)
+- [Shalina Sham (BSc)](https://gohwils.github.io/biodatascience/shalina)
+- [Enoch Mok (BSc)](https://gohwils.github.io/biodatascience/enoch)
+- [Joan Jong (BSc)](https://gohwils.github.io/biodatascience/joanjong)
+- [Wee Yuhui (BSc)](https://gohwils.github.io/biodatascience/weeyuhui)
+- [Jordan Kho (BSc)](https://gohwils.github.io/biodatascience/jordankho)
+- [Lejia Lin (BSc)](https://gohwils.github.io/biodatascience/lejia)
+- [Lirong Wang (BSc)](https://gohwils.github.io/biodatascience/lirong)
+- [Bertrand Wang Jernhan (BSc)](https://gohwils.github.io/biodatascience/bertrand)
+- [Wenxuan Kong (BSc)](https://gohwils.github.io/biodatascience/wenxuan)
+- [Priscila Sun Yunqian (BSc)](https://gohwils.github.io/biodatascience/priscila)
+- [Jiao Yan (MSc)](https://gohwils.github.io/biodatascience/jiaoyan)
+
 
 ## Courses and training programmes (Taught by us)
 ### Undergraduate courses
