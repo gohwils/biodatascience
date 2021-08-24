@@ -47,7 +47,6 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 
 ### Research students
 - [Samuel Tan (PhD)](https://gohwils.github.io/biodatascience/samueltan)
-- [Zhou Longjian (PhD)](https://gohwils.github.io/biodatascience/zhoulongjian)
 - [Kong Weijia (PhD)](https://gohwils.github.io/biodatascience/kongweijia)
 - [Sugam Budhraja (PhD)](https://gohwils.github.io/biodatascience/sugam)
 - [Xue Hai Tao (MSc)](https://gohwils.github.io/biodatascience/xuehaitao)
@@ -89,6 +88,7 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 - [Wenxuan Kong (BSc)](https://gohwils.github.io/biodatascience/wenxuan)
 - [Priscila Sun Yunqian (BSc)](https://gohwils.github.io/biodatascience/priscila)
 - [Jiao Yan (MSc)](https://gohwils.github.io/biodatascience/jiaoyan)
+- [Zhou Longjian (PhD)](https://gohwils.github.io/biodatascience/zhoulongjian)
 
 
 ## Courses and training programmes (Taught by us)
