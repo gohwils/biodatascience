@@ -54,10 +54,10 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 - [Guo Zexi (MSc)](https://gohwils.github.io/biodatascience/guozexi)
 - [Tng Jia Wei Teddy (BSc)](https://gohwils.github.io/biodatascience/teddy)
 - [Wu Wenshan (BSc)](https://gohwils.github.io/biodatascience/wenshan)
-- [Cheryl Quek](https://gohwils.github.io/biodatascience/cherylquek)
-- [Nicholas Lee Bowen](https://gohwils.github.io/biodatascience/nicholaslee)
-- [Choy Xin Yun](https://gohwils.github.io/biodatascience/choyxinyun)
-- [Huang Zelu](https://gohwils.github.io/biodatascience/huangzelu)
+- [Cheryl Quek (BSc)](https://gohwils.github.io/biodatascience/cherylquek)
+- [Nicholas Lee Bowen (BSc)](https://gohwils.github.io/biodatascience/nicholaslee)
+- [Choy Xin Yun (BSc)](https://gohwils.github.io/biodatascience/choyxinyun)
+- [Huang Zelu (BSc)](https://gohwils.github.io/biodatascience/huangzelu)
 
 ### Alumni
 - Felicia Ngan, BSc
