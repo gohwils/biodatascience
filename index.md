@@ -55,7 +55,7 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 - [Wu Wenshan (BSc)](https://gohwils.github.io/biodatascience/wenshan)
 - [Cheryl Quek (BSc)](https://gohwils.github.io/biodatascience/cherylquek)
 - [Nicholas Lee Bowen (BSc)](https://gohwils.github.io/biodatascience/nicholaslee)
-- [Choy Xin Yun (BSc)](https://gohwils.github.io/biodatascience/choyxinyun)
+- [Choy Xin Yun (BSc)](https://gohwils.github.io/biodatascience/xinyun)
 - [Huang Zelu (BSc)](https://gohwils.github.io/biodatascience/huangzelu)
 
 ### Alumni
