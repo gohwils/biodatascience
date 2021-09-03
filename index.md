@@ -57,6 +57,7 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 - [Nicholas Lee Bowen (BSc)](https://gohwils.github.io/biodatascience/nicholaslee)
 - [Choy Xin Yun (BSc)](https://gohwils.github.io/biodatascience/xinyun)
 - [Huang Zelu (BSc)](https://gohwils.github.io/biodatascience/huangzelu)
+- [Ashi Jain (BSc)](https://gohwils.github.io/biodatascience/ashi)
 
 ### Alumni
 - Felicia Ngan, BSc
