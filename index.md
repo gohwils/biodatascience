@@ -41,9 +41,12 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 ## Our people (Meet the team)
 ### Research staff
 - [Wilson Wen Bin Goh](https://gohwils.github.io/biodatascience/wilsongoh) (PI)
+- [Allen Chong](https://gohwils.github.io/biodatascience/allenchong) (Senior Research Scientist)
 - [Leonard Tan](https://gohwils.github.io/biodatascience/leonardtan) (Research Scientist)
+- [Peng Hui](https://gohwils.github.io/biodatascience/penghui) (Research Scientist)
 - [Anna Chew](https://gohwils.github.io/biodatascience/anna) (Project Officer)
 - [Lee Yue Xin (BSc)](https://gohwils.github.io/biodatascience/yuexin) (Project Officer)
+- [Phua Ser Xian](https://gohwils.github.io/biodatascience/serxian) (Research Assistant)
 
 ### Research students
 - [Samuel Tan (PhD)](https://gohwils.github.io/biodatascience/samueltan)
