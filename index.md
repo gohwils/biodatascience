@@ -48,12 +48,14 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 - [Lee Yue Xin (BSc)](https://gohwils.github.io/biodatascience/yuexin) (Project Officer)
 - [Phua Ser Xian](https://gohwils.github.io/biodatascience/serxian) (Research Assistant)
 
-### Research students
+### Graduate students
 - [Samuel Tan (PhD)](https://gohwils.github.io/biodatascience/samueltan)
 - [Kong Weijia (PhD)](https://gohwils.github.io/biodatascience/kongweijia)
 - [Sugam Budhraja (PhD)](https://gohwils.github.io/biodatascience/sugam)
 - [Xue Hai Tao (MSc)](https://gohwils.github.io/biodatascience/xuehaitao)
 - [Guo Zexi (MSc)](https://gohwils.github.io/biodatascience/guozexi)
+
+### Research students and interns
 - [Tng Jia Wei Teddy (BSc)](https://gohwils.github.io/biodatascience/teddy)
 - [Wu Wenshan (BSc)](https://gohwils.github.io/biodatascience/wenshan)
 - [Cheryl Quek (BSc)](https://gohwils.github.io/biodatascience/cherylquek)
