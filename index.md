@@ -65,19 +65,19 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 - [Ashi Jain (BSc)](https://gohwils.github.io/biodatascience/ashi)
 
 ### Alumni
-## STAFF
+#### STAFF
 - [Ho Sung Yang](https://gohwils.github.io/biodatascience/hosungyang) (Research Assistant; Data Scientist)
 - Lu Tianyi, BSc
 - [Justin Ng](https://gohwils.github.io/biodatascience/justinng) (Research Fellow)
 - [Darius Chan](https://gohwils.github.io/biodatascience/darius) (Research Associate)
 - Zenghao Lim (Research Assistant)
 
-## Graduate students
+#### Graduate students
 - Wei Wang, MSc
 - [Zhao Yaxing (MSc)](https://gohwils.github.io/biodatascience/zhaoyaxing)
 - [Zhou Longjian (PhD)](https://gohwils.github.io/biodatascience/zhoulongjian)
 
-## FYP
+#### FYP
 - Felicia Ngan, BSc
 - Chon Hui Min, BSc
 - Fu Ting Ting
@@ -87,7 +87,7 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 - [Wee Yuhui (BSc)](https://gohwils.github.io/biodatascience/weeyuhui)
 - [Priscila Sun Yunqian (BSc)](https://gohwils.github.io/biodatascience/priscila)
 
-## URECA
+#### URECA
 - [Kimberly Phua (BSc)](https://gohwils.github.io/biodatascience/kimberlyphua)
 - [Nicole Kan (BSc)](https://gohwils.github.io/biodatascience/nicolekan)
 - Bernard Koh
@@ -97,7 +97,7 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 - [Bertrand Wang Jernhan (BSc)](https://gohwils.github.io/biodatascience/bertrand)
 - [Wenxuan Kong (BSc)](https://gohwils.github.io/biodatascience/wenxuan)
 
-## Other internships
+#### Other internships
 - [Damien Chua (BSc)](https://gohwils.github.io/biodatascience/damien)
 - [Lim KaiPeng (BSc)](https://gohwils.github.io/biodatascience/kaipeng)
 - [Shalina Sham (BSc)](https://gohwils.github.io/biodatascience/shalina)
