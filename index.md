@@ -46,7 +46,6 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 - [Peng Hui](https://gohwils.github.io/biodatascience/penghui) (Research Scientist)
 - [Xue Hai Tao (MSc)](https://gohwils.github.io/biodatascience/xuehaitao) (Research Associate)
 - [Anna Chew](https://gohwils.github.io/biodatascience/anna) (Project Officer)
-- [Lee Yue Xin (BSc)](https://gohwils.github.io/biodatascience/yuexin) (Project Officer)
 - [Phua Ser Xian](https://gohwils.github.io/biodatascience/serxian) (Research Assistant)
 - [Eric Lim](https://gohwils.github.io/biodatascience/ericlim) (Research Assistant)
 - [Christopher Phua](https://gohwils.github.io/biodatascience/serxian) (Research Assistant)
@@ -77,6 +76,7 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 - Lu Tianyi, BSc
 - [Justin Ng](https://gohwils.github.io/biodatascience/justinng) (Research Fellow)
 - [Darius Chan](https://gohwils.github.io/biodatascience/darius) (Research Associate)
+- [Lee Yue Xin (BSc)](https://gohwils.github.io/biodatascience/yuexin) (Project Officer)
 - Zenghao Lim (Research Assistant)
 
 #### Graduate students
