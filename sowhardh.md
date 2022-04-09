@@ -1,6 +1,6 @@
-## Tian Siqi
+## Sowhardh Honnappa
 
-![sowhardh_image](/images/sowhardh.png)
+![sowhardh_image](/images/sowhardh.PNG)
 
 Nearly 1 billion people live with a mental disorder and about 75% of the such people do not receive timely intervention and treatment. 
 My research focuses on analysis of audio and video interviews of patients suffering from mental illnesses using Digital Phenotyping, Audio characteristics like MFCC features, Loudness, Speech patterns, Semantic Coherence, Idea Density etc. to predict depression scores on numerous depression measurement scales like Beck’s Depression Inventory (BDI), PHQ-8, PHQ-9 etc. which can help in early intervention reducing the ill-effects of mental illnesses.
