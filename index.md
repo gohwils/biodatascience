@@ -44,31 +44,35 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 - [Allen Chong](https://gohwils.github.io/biodatascience/allenchong) (Senior Research Scientist)
 - [Leonard Tan](https://gohwils.github.io/biodatascience/leonardtan) (Research Scientist)
 - [Peng Hui](https://gohwils.github.io/biodatascience/penghui) (Research Scientist)
+- [Alexander Hernandez](https://gohwils.github.io/biodatascience/alexhernandez) (Research Scientist)
 - [Xue Hai Tao (MSc)](https://gohwils.github.io/biodatascience/xuehaitao) (Research Associate)
 - [Anna Chew](https://gohwils.github.io/biodatascience/anna) (Project Officer)
 - [Phua Ser Xian](https://gohwils.github.io/biodatascience/serxian) (Research Assistant)
 - [Eric Lim](https://gohwils.github.io/biodatascience/ericlim) (Research Assistant)
 - [Christopher Phua](https://gohwils.github.io/biodatascience/serxian) (Research Assistant)
-- [Wu Weiling](https://gohwils.github.io/biodatascience/serxian) (Research Assistant)
 
 ### Graduate students
 - [Samuel Tan (PhD)](https://gohwils.github.io/biodatascience/samueltan)
 - [Kong Weijia (PhD)](https://gohwils.github.io/biodatascience/kongweijia)
 - [Sugam Budhraja (PhD)](https://gohwils.github.io/biodatascience/sugam)
 - [Joan Jong (PhD)](https://gohwils.github.io/biodatascience/joanjong)
+- [Tian Siqi (PhD)](https://gohwils.github.io/biodatascience/siqi)
+- [Tng Jia Wei Teddy (PhD)](https://gohwils.github.io/biodatascience/teddy)
+- [Sowhardh Honnappa (PhD)](https://gohwils.github.io/biodatascience/sowhardh)
 - [Guo Zexi (MSc)](https://gohwils.github.io/biodatascience/guozexi)
 - [Zhu Jiarun (MSc)](https://gohwils.github.io/biodatascience/jiarun)
 - [Hu Jingyi (MSc)](https://gohwils.github.io/biodatascience/jingyi)
-- [Tian Siqi (MSc)](https://gohwils.github.io/biodatascience/siqi)
+
 
 ### Research students and interns
-- [Tng Jia Wei Teddy (BSc)](https://gohwils.github.io/biodatascience/teddy)
+
 - [Wu Wenshan (BSc)](https://gohwils.github.io/biodatascience/wenshan)
 - [Cheryl Quek (BSc)](https://gohwils.github.io/biodatascience/cherylquek)
 - [Choy Xin Yun (BSc)](https://gohwils.github.io/biodatascience/xinyun)
 - [Huang Zelu (BSc)](https://gohwils.github.io/biodatascience/huangzelu)
 - [Reuben Foo (BSc)](https://gohwils.github.io/biodatascience/reuben)
 - [Lim KaiPeng (BSc)](https://gohwils.github.io/biodatascience/kaipeng)
+- [Harvard Hui (BSc)](https://gohwils.github.io/biodatascience/harvardhui)
 
 ### Alumni
 #### STAFF
