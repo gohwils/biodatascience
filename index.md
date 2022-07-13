@@ -45,7 +45,7 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 - [Leonard Tan](https://gohwils.github.io/biodatascience/leonardtan) (Research Scientist)
 - [Peng Hui](https://gohwils.github.io/biodatascience/penghui) (Research Scientist)
 - [Alexander Hernandez](https://gohwils.github.io/biodatascience/alexhernandez) (Research Scientist)
-- [Xue Hai Tao (MSc)](https://gohwils.github.io/biodatascience/xuehaitao) (Research Associate)
+
 - [Anna Chew](https://gohwils.github.io/biodatascience/anna) (Project Officer)
 - [Phua Ser Xian](https://gohwils.github.io/biodatascience/serxian) (Research Assistant)
 - [Eric Lim](https://gohwils.github.io/biodatascience/ericlim) (Research Assistant)
@@ -59,9 +59,9 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 - [Tian Siqi (PhD)](https://gohwils.github.io/biodatascience/siqi)
 - [Tng Jia Wei Teddy (PhD)](https://gohwils.github.io/biodatascience/teddy)
 - [Sowhardh Honnappa (PhD)](https://gohwils.github.io/biodatascience/sowhardh)
+- [Chen Liu (PhD)](https://gohwils.github.io/biodatascience/chenliu)
+- [Chen JianBei (CSC PhD)](https://gohwils.github.io/biodatascience/chenjianbei)
 - [Guo Zexi (MSc)](https://gohwils.github.io/biodatascience/guozexi)
-- [Zhu Jiarun (MSc)](https://gohwils.github.io/biodatascience/jiarun)
-- [Hu Jingyi (MSc)](https://gohwils.github.io/biodatascience/jingyi)
 
 
 ### Research students and interns
@@ -76,6 +76,7 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 
 ### Alumni
 #### STAFF
+- [Xue Hai Tao (MSc)](https://gohwils.github.io/biodatascience/xuehaitao) (Research Associate)
 - [Ho Sung Yang](https://gohwils.github.io/biodatascience/hosungyang) (Research Assistant; Data Scientist)
 - Lu Tianyi, BSc
 - [Justin Ng](https://gohwils.github.io/biodatascience/justinng) (Research Fellow)
@@ -88,6 +89,9 @@ Check out our latest works [here](https://gohwils.github.io/biodatascience/publi
 - [Zhao Yaxing (MSc)](https://gohwils.github.io/biodatascience/zhaoyaxing)
 - [Zhou Longjian (PhD)](https://gohwils.github.io/biodatascience/zhoulongjian)
 - [Zhang Xinxin (MSc)](https://gohwils.github.io/biodatascience/xinxin)
+- [Zhu Jiarun (MSc)](https://gohwils.github.io/biodatascience/jiarun)
+- [Hu Jingyi (MSc)](https://gohwils.github.io/biodatascience/jingyi)
+
 
 #### FYP
 - Felicia Ngan, BSc
